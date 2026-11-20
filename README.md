@@ -9,7 +9,9 @@ This repository holds Termstay's published programs, as
 [Releases](https://github.com/maksonlee/termstay-releases/releases), and
 takes problem reports in its
 [Issues](https://github.com/maksonlee/termstay-releases/issues). Termstay
-is not open source for now, so its source is not here.
+is not open source for now, so its source is not here: the "Source code"
+archives GitHub adds to every release hold only this README and the
+license.
 
 Termstay is below 1.0 and still changing: use it, but do not make it the
 only way to reach a system you depend on.
