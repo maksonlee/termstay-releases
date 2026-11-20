@@ -1,0 +1,50 @@
+Termstay License
+
+Copyright (c) 2026 Makson Lee. All rights reserved.
+
+This license covers the published programs of Termstay: Termstay Server
+for Ubuntu, Termstay Server for Windows, the Termstay app for Windows PCs
+and the Termstay app for Android phones, each in the form its author
+publishes ("the Software"). Termstay's source code is not published, and
+this license grants no right to it.
+
+1. Permission. You may download, install and use the Software free of
+   charge, on any number of devices, for personal or commercial purposes,
+   and keep copies of it for backup.
+
+2. Restrictions. Except where applicable law allows it despite this
+   limitation, you may not:
+
+   a. redistribute the Software, or publish it for others to download;
+      others get it from its author's channels instead: the Releases of
+      github.com/maksonlee/termstay-releases, and Google Play for the
+      phone app;
+   b. sell, rent, lease or sublicense the Software;
+   c. modify the Software, or make works based on it;
+   d. reverse engineer, decompile or disassemble the Software;
+   e. remove or change any copyright, license or other notice in it.
+
+3. Third-party components. The Software includes open-source components
+   under their own licenses, listed in the notices that come with it.
+   Those licenses govern those components, and nothing in this license
+   limits your rights under them.
+
+4. Ownership. The Software is licensed, not sold. Its author keeps every
+   right in it that this license does not expressly grant.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT.
+
+6. Limitation of liability. TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN
+   NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+7. Termination. This license ends on its own if you break its terms; you
+   must then stop using the Software and delete your copies of it.
+
+8. Versions. Each version of the Software comes with its license. A later
+   version may come with other terms, which do not change those of a
+   version you already have.
